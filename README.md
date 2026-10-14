@@ -5,12 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
