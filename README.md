@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
@@ -54,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
