@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
