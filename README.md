@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | ------- |
 | [0075-sort-colors](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | ------- |
 | [0075-sort-colors](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -87,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
