@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0075-sort-colors](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0075-sort-colors](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
