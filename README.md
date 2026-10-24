@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0283-move-zeroes](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
