@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0389-find-the-difference](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0485-max-consecutive-ones](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0905-sort-array-by-parity) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1051-height-checker](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -123,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
