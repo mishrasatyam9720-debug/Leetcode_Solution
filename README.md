@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0560-subarray-sum-equals-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0974-subarray-sums-divisible-by-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1051-height-checker](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0189-rotate-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
