@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | ------- |
 | [0075-sort-colors](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0389-find-the-difference) |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -131,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0560-subarray-sum-equals-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
