@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [1051-height-checker](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
