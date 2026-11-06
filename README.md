@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0031-next-permutation](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
