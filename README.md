@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | ------- |
 | [0031-next-permutation](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0075-sort-colors) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
@@ -168,5 +170,6 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
