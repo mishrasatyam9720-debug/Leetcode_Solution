@@ -7,10 +7,10 @@ public:
             if(ans.empty()){
                 ans.push_back(nums[i]) ; 
             }
-            if(ans.back()[1]<nums[i][0]){
+            else if(ans.back()[1]<nums[i][0]){
                 ans.push_back(nums[i]);
             }
-            if(ans.back()[1]>=nums[i][0]){
+            else{
                 ans.back()[1]=max(ans.back()[1],nums[i][1]);
             }
 
