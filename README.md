@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
