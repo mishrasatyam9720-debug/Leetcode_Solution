@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0349-intersection-of-two-arrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0053-maximum-subarray](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -188,4 +191,24 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0048-rotate-image](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0073-set-matrix-zeroes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
