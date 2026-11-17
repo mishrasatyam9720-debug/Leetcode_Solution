@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0007-reverse-integer](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0493-reverse-pairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
