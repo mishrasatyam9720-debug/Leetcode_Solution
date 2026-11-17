@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 ## Queue
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0009-palindrome-number](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
