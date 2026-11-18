@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0493-reverse-pairs](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0905-sort-array-by-parity) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0367-valid-perfect-square](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 ## Queue
 |  |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
