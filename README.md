@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [1051-height-checker](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0704-binary-search](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Queue
 |  |
