@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [1394-find-lucky-integer-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1552-magnetic-force-between-two-balls) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [0442-find-all-duplicates-in-an-array](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1051-height-checker) |
+| [1552-magnetic-force-between-two-balls](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1552-magnetic-force-between-two-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!  - Created using
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/mishrasatyam9720-debug/Leetcode_Solution/tree/master/1552-magnetic-force-between-two-balls) |
 ## Queue
 |  |
 | ------- |
